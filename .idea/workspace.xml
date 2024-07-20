@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00942c00-f6f0-489d-b158-187a1562fe00" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/github-pages.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/403-bg-bb9f4091.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/403-bg-ccf8f659.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/404-bg-960140cc.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/404-bg-99ec1ccf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/500-bg-00e7fca4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/500-bg-38e1d81b.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/503-bg-2a903127.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/503-bg-4298741b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/auth-bg-f0a1a9a1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/coca-ad572ed9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/coming-soon-bg-ad546d43.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/coming-soon-bg-f3ae0f72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/f226fe62521ea77679ce2f1dcc1d3698-0e283877.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/giftsCardBg-31af9b1d.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/giftsCardBg-a2c6852b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/i4ea-24d4a4e9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/index-04ca4258.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/index-97ab852f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/mobile-bg-a5ce97e3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/mobile-bg-c0e2506c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/mobileCardBg-b575b4c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/mobileCardBg-f7e406c0.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/netflix-d9b47d15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/playstation-26d11655.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/assets/qr-code-6746b962.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alfatop/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/.idea/public.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/Contacts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/License/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/Payment/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/Policy/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/Tariffs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/9Tzu4M-l.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/B0oG5w6n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/B_ksHK5T.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/BaseH1Title.vZq6v1pn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/BfghzK4e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/BkO82Lrp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/BkrdNsuX.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/BlepxzIA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/Bqm0PsJn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/Br7aznXE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/Bz3iFtY6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/CF64mpj0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/CK6nEhug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/CKDJrQAU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/CScIMd_7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/CcU4Zyog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/Contacts._u7DA1SK.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/DALc4vGL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/DIE1c5XX.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/DOQs0hb_.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/DiWmkqvd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/FormPenaltyAboutServiceModal.DCU-xvKh.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/License.CE5K9KfF.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/PC.Ccy603U-.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/PC.D1RnzsrC.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/Payment.DZRcqkFl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/Policy.Weiy0YFa.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/Tariffs.7U3ZsoyF.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/ZKDCd2bv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/bMe6wKmH.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/bell.CQ9qLeHV.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/builds/latest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/builds/meta/a12e13ef-b3e8-4e60-b7fb-14009c5641c2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/entry.CRmJzUAH.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/error-404.JekaaCis.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/error-500.CNP9nqm1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/fbdClrbk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/index.DfipjwVE.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/map.BSr-8Q-w.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/shield.fsTRfgZI.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/swiper-vue.Bs3d9ZnH.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/_nuxt/timer.Mh0DnR2a.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compas/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/arrow-big-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/arrow-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/avatar-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/avatar-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/avatar-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/avatar-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/avatar-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/avatar-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/avatar-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/avatar-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/avatar-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/checkmark-rounded.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/checkmark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/dislike.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/eclipse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/garland-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/garland-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/good-place-small.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/like.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/phone-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/phone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/slider-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/slider-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/star-empty.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/telegram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/whatsapp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/ya-header.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/ya-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/ya.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/img/сheckmark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/five-stars/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2jWj6AHMPrBg5HaRGM2q9MP18OE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Folsten/Desktop/folsten.github.io",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PS-241.17011.119" />
+        <option value="bundled-php-predefined-ba97393d7c68-48a1a656d44e-com.jetbrains.php.sharedIndexes-PS-241.17011.119" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00942c00-f6f0-489d-b158-187a1562fe00" name="Changes" comment="" />
+      <created>1721509548368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721509548368</updated>
+      <workItem from="1721509549419" duration="254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
