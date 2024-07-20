@@ -26,7 +26,7 @@ import CartCheckout from "@/pages/cart/cart-checkout/cart-checkout.vue";
 import CartCheckoutInvoice from "@/pages/cart/cart-checkout/cart-checkout-invoice/cart-checkout-invoice.vue";
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHashHistory(import.meta.env.BASE_URL),
   routes: [
     {
       path: '/',
@@ -67,6 +67,16 @@ const router = createRouter({
       path: '/cart',
       name: 'cart',
       component: Cart
+    },
+    {
+      path: '/cart/checkout',
+      name: 'cart-checkout',
+      component: CartCheckout
+    },
+    {
+      path: '/cart/checkout/invoice',
+      name: 'cart-checkout-invoice',
+      component: CartCheckoutInvoice
     },
     {
       path: '/support',
@@ -112,16 +122,6 @@ const router = createRouter({
       path: '/account/referral',
       name: 'account-referral',
       component: AccountReferral
-    },
-    {
-      path: '/cart/checkout',
-      name: 'cart-checkout',
-      component: CartCheckout
-    },
-    {
-      path: '/cart/checkout/invoice',
-      name: 'cart-checkout-invoice',
-      component: CartCheckoutInvoice
     },
 
     // Error pages
