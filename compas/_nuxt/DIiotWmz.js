@@ -1,0 +1,1 @@
+import{_ as t}from"./CdwzEBW6.js";import{_ as o}from"./B-5R7XHU.js";import{x as n,D as c,E as s,o as a,F as _}from"./DALc4vGL.js";const r={},m={class:"payment"};function f(i,l){const e=t;return a(),n("section",m,[c(e,null,{default:s(()=>[_("Информация об оплате")]),_:1})])}const u=o(r,[["render",f]]);export{u as default};
