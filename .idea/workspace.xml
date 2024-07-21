@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00942c00-f6f0-489d-b158-187a1562fe00" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alfatop/menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alfatop/src/pages/_project-routing/project-routing.vue" beforeDir="false" afterPath="$PROJECT_DIR$/alfatop/src/pages/_project-routing/project-routing.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alfatop/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/alfatop/src/router/index.ts" afterDir="false" />
-    </list>
+    <list default="true" id="00942c00-f6f0-489d-b158-187a1562fe00" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,11 +14,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/alfatop" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2jWj6AHMPrBg5HaRGM2q9MP18OE" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,13 +31,15 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Folsten/Desktop/folsten.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "ts.external.directory.path": "C:\\Users\\Folsten\\Desktop\\folsten.github.io\\alfatop\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -64,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721509548368</updated>
       <workItem from="1721509549419" duration="2059000" />
+      <workItem from="1721532971270" duration="705000" />
     </task>
     <servers />
   </component>
